@@ -1,0 +1,26 @@
+{
+  "name": "loadfxt",
+  "description": "Javascript library to load fixtures form different formats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unki2aut/loadfxt.git"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "testing",
+    "fixture",
+    "jest"
+  ],
+  "author": "Martin Fillafer <unki2aut@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unki2aut/loadfxt/issues"
+  },
+  "homepage": "https://github.com/unki2aut/loadfxt#readme"
+}
