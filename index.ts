@@ -16,7 +16,7 @@ class Fixture {
     return this.value.toString('utf8');
   }
 
-  public toJson(): object {
+  public toJson(): any {
     return JSON.parse(this.toBinaryString().trim());
   }
 
