@@ -20,7 +20,7 @@ loadfxt('<path/to/fixture>').toBinaryString();
 1. **UTF-8 string**  
    The loaded data will be represented in UTF-8 encoding.
 ```js
-loadfxt('<path/to/fixture>').toJson();
+loadfxt('<path/to/fixture>').toUtf8();
 ```
 
 1. **JSON**
