@@ -1,5 +1,6 @@
 # loadfxt
-Javascript library to load fixtures of different formats
+Tiny JavaScript library to load fixtures of different formats.  
+Don't know why this isn't included in every testing framework already 🤷
 
 ## Examples
 
