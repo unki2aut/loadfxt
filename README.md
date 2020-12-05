@@ -4,7 +4,21 @@
 Tiny JavaScript library to load fixtures of different formats.  
 Don't know why this isn't included in every testing framework already 🤷
 
-## Examples
+## Use with `javascript`
+```js
+const loadfxt = require('loadfxt').default;
+
+console.log(loadfxt('test.txt').toBinaryString());
+```
+
+## Use with `typescript`
+```ts
+import loadfxt from 'loadfxt';
+
+console.log(loadfxt('test.txt').toBinaryString());
+```
+
+## API Examples
 
 1. **Binary data**
 ```js
