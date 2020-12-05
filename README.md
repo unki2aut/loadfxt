@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/unki2aut/loadfxt.svg?branch=main)](https://travis-ci.org/unki2aut/loadfxt) [![codecov](https://codecov.io/gh/unki2aut/loadfxt/branch/main/graph/badge.svg?token=QKQXL80K7B)](https://codecov.io/gh/unki2aut/loadfxt)
+![CI](https://github.com/unki2aut/loadfxt/workflows/CI/badge.svg?branch=main) [![codecov](https://codecov.io/gh/unki2aut/loadfxt/branch/main/graph/badge.svg?token=QKQXL80K7B)](https://codecov.io/gh/unki2aut/loadfxt)
 
 # loadfxt
 Tiny JavaScript library to load fixtures of different formats.  
