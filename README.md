@@ -1,4 +1,4 @@
-[![CI](https://github.com/unki2aut/loadfxt/workflows/CI/badge.svg?branch=main)](https://github.com/unki2aut/loadfxt) [![codecov](https://codecov.io/gh/unki2aut/loadfxt/branch/main/graph/badge.svg?token=QKQXL80K7B)](https://codecov.io/gh/unki2aut/loadfxt)
+[![CI](https://github.com/unki2aut/loadfxt/workflows/CI/badge.svg?branch=main)](https://github.com/unki2aut/loadfxt) [![codecov](https://codecov.io/gh/unki2aut/loadfxt/branch/main/graph/badge.svg?token=QKQXL80K7B)](https://codecov.io/gh/unki2aut/loadfxt) [![npm version](https://badge.fury.io/js/loadfxt.svg)](https://www.npmjs.com/package/loadfxt)
 
 # loadfxt
 Tiny JavaScript library to load fixtures of different formats.  
